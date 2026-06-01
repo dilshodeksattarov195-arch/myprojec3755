@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartealidate",
+        "uuid": 965035,
+        "checksum": "1fxu7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
